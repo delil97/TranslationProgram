@@ -1,0 +1,11 @@
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.exe
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.deps.json
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.runtimeconfig.json
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.runtimeconfig.dev.json
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.dll
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\bin\Debug\netcoreapp3.1\TranslationProgram.pdb
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\obj\Debug\netcoreapp3.1\TranslationProgram.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\obj\Debug\netcoreapp3.1\TranslationProgram.AssemblyInfoInputs.cache
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\obj\Debug\netcoreapp3.1\TranslationProgram.AssemblyInfo.cs
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\obj\Debug\netcoreapp3.1\TranslationProgram.dll
+C:\Users\Dator\Desktop\TranslationProgram\TranslationProgram\obj\Debug\netcoreapp3.1\TranslationProgram.pdb
